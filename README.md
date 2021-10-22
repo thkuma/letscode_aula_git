@@ -1,1 +1,3 @@
-# letscode_aula_git
+# Repositorio da aula inicial de git  
+Primeiro commit  
+Teste
